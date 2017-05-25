@@ -1,4 +1,5 @@
-# player
-自定义播放器空间
+# JS自定义播放器控件
 
-修改
+模仿自Chrome播放控件
+
+demo地址：http://summerscar.com/player/video.html
